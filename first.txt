@@ -1,4 +1,7 @@
-hello world  ��! 
+﻿hello world！！
 
 
-��ã����磡��
+你好世界！！
+
+
+乱码修改：将文本格式转化为UTF-8
